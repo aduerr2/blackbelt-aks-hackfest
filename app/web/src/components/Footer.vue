@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-       Anna Duerr Azure Global Blackbelt Team
+       Azure Global Blackbelt Team with Anna Duerr
       </div>
       <div class="col-lg-6">
       </div>
