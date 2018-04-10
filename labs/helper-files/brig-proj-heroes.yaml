@@ -1,12 +1,12 @@
-project: "REPLACE"
-        repository: "REPLACE"
-        cloneURL: "REPLACE"
-        sharedSecret: "create-something-super-secret"
+project: "aduerr2/blackbelt-aks-hackfest"
+        repository: "github.com/aduerr2/blackbelt-aks-hackfest"
+        cloneURL: "https://github.com/aduerr2/blackbelt-aks-hackfest.git"
+        sharedSecret: "123adkl@ss"
         # MAKE SURE YOU CHANGE THIS. It's basically a password
         github:
           token: "REPLACE"
         secrets:
-          acrServer: REPLACE
-          acrUsername: REPLACE
-          acrPassword: "REPLACE"
+          acrServer: aduerrcontreg.azurecr.io
+          acrUsername: aduerrcontreg
+          acrPassword: "oN4rWnPQw7GgFzm19MLMNcT/z0K3jwDZ"
         vcsSidecar: "deis/git-sidecar:v0.11.0"
